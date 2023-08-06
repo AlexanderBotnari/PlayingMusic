@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OrangeSeekBarStyle" parent="Widget.AppCompat.SeekBar">
+        <item name="colorControlNormal">#FF5722</item>
+        <item name="colorControlActivated">#FF5722</item>
+        <item name="backgroundColor">#FF5722</item>
+        <item name="android:progressTint">#FF5722</item>
+        <item name="android:thumb">@drawable/volume_thumb</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="titleTextColor">@color/white</item>
+    </style>
+</resources>
